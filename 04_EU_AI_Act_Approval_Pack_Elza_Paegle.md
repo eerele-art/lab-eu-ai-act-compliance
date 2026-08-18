@@ -86,7 +86,10 @@ Remove emotion inference and individual psychological scoring. Collect voluntary
 
 ## What Changed After the Client Discussion?
 
-This section will be completed after the partner reveals the private answer key and responds to the recommendations.
+
+The partner revealed that the intended categories were Case A — minimal risk, Case B — limited risk with transparency obligations, Case C — high-risk and Case D — prohibited. All four intended categories matched the independent consulting classifications.
+
+The partner accepted the recommendations. During the discussion, we clarified that human review does not remove the high-risk classification of the recruitment system and cannot make workplace emotion inference lawful. The final recommendation did not change. The redesign of Case D was retained: emotion inference and individual energy scores would be removed and replaced with voluntary feedback and human observation based on transparent behavioural and safety criteria.
 
 ## References
 
