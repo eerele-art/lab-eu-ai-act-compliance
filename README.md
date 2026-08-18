@@ -1,23 +1,31 @@
-# Classify your product
+# Classify Your Product
 
-**Track:** Module 7 — EU AI Act · **When:** Week 7, Day 2 · **Status:** Required
+**Track:** Module 7 — EU AI Act  
+**Student:** Elza Paegle  
+**Status:** Completed
 
-This repository contains everything you need for this lab.
+This repository contains the complete submission for the EU AI Act product-classification lab.
 
-## Files
+## Submission File Map
 
-- [`instructions.md`](./instructions.md) — the lab instructions
-- [`rubric.md`](./rubric.md) — how your submission is graded; this is what the AI reviewer checks your PR against
+- [`01_private_answer_key.md`](01_private_answer_key.md) — Four original client scenarios with their intended classifications and explanations.
+- [`02_client_briefs_for_partner.md`](02_client_briefs_for_partner.md) — The unlabelled client briefs shared for independent partner review.
+- [`03_partner_consulting_review.md`](03_partner_consulting_review.md) — Independent first-pass classification, architecture, role mapping, controls and decisions for the partner’s four cases.
+- [`04_EU_AI_Act_Approval_Pack_Elza_Paegle.md`](04_EU_AI_Act_Approval_Pack_Elza_Paegle.md) — Final consulting approval pack, prohibited-case redesign and client-discussion note.
+- [`instructions.md`](instructions.md) — Original lab instructions.
+- [`rubric.md`](rubric.md) — Assessment criteria used by the AI reviewer.
 
-## How to complete this lab
+## Submission Summary
 
-1. **Fork** this repository.
-2. Do the work described in `instructions.md`, committing to your fork.
-3. Open a **pull request** back into this repository.
-4. You'll receive **AI feedback** on your PR based on `rubric.md`. Address any blocking feedback and push updates to the same PR.
+The lab covers four EU AI Act outcomes:
 
-## Submission hygiene
+1. Minimal risk
+2. Limited risk with transparency obligations
+3. High-risk
+4. Prohibited use
 
-- Keep this repository scoped to this lab only — no unrelated projects or personal files.
-- Use clear, descriptive filenames.
-- Remove secrets, API keys, and tokens before committing.
+Each case includes a classification, AI architecture, human-review point, provider/deployer/vendor role map, compliance controls and consulting decision.
+
+## Submission Hygiene
+
+This repository contains only materials related to this lab. No secrets, API keys, tokens or unrelated project files are included.
