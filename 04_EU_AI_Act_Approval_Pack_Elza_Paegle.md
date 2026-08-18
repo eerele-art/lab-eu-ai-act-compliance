@@ -86,11 +86,20 @@ Remove emotion inference and individual psychological scoring. Collect voluntary
 
 ## What Changed After the Client Discussion?
 
+The first comparison appeared to show disagreement on all four cases. However, the discussion revealed that the case letters in the partner’s private answer key followed a different order from the case letters in the unlabelled briefs provided for review.
 
-The partner revealed that the intended categories were Case A — minimal risk, Case B — limited risk with transparency obligations, Case C — high-risk and Case D — prohibited. All four intended categories matched the independent consulting classifications.
+When the cases were matched by their underlying use rather than by letter, the intended and inferred classifications were substantively identical:
 
-The partner accepted the recommendations. During the discussion, we clarified that human review does not remove the high-risk classification of the recruitment system and cannot make workplace emotion inference lawful. The final recommendation did not change. The redesign of Case D was retained: emotion inference and individual energy scores would be removed and replaced with voluntary feedback and human observation based on transparent behavioural and safety criteria.
+- technical photography selection — minimal risk;
+- customer-facing social media chatbot — limited risk with transparency obligations;
+- recruitment scoring and candidate filtering — high-risk;
+- workplace emotion inference — prohibited.
 
+The client initially challenged all four classifications because of the case-letter mismatch. Comparing the factual features of each system resolved the apparent disagreement. No substantive consulting decision changed.
+
+The photography system remains approved, subject to ordinary privacy and image-governance controls. The chatbot remains approved with transparency and human-escalation controls. The recruitment system remains conditionally approved under a high-risk compliance framework. The workplace emotion-inference system remains denied and must be redesigned.
+
+The debrief demonstrated that stable scenario identifiers are important: the legal classification must follow the system’s intended purpose, data and effect on people, not the position or letter assigned to the case.
 ## References
 
 - [Regulation (EU) 2024/1689 — EU Artificial Intelligence Act](https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng)
